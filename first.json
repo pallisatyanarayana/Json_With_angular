@@ -1,0 +1,9 @@
+[
+	{"name":"satya","gender":"male","salary":50000},
+	{"name":"renuka","gender":"female","salary":40000},
+	{"name":"ramya","gender":"female","salary":350000},
+	{"name":"tulasi","gender":"male","salary":20000},
+	{"name":"triveni","gender":"female","salary":80000},
+	{"name":"swapna","gender":"female","salary":10000}
+
+]
